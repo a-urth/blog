@@ -1,0 +1,11 @@
+languageCode = "en-us"
+baseurl = "https://a-urth.github.io/"
+title = "Just Another Developer's Blog"
+author = "a-urth (Andrii Ursulenko)"
+
+[params]
+  logo      = "/images/logo.jpeg"
+  twitter   = "https://twitter.com/a_ursulenko"
+  facebook  = "https://www.facebook.com/andrii.ursulenko"
+  github    = "https://github.com/a-urth/"
+  email     = "a.ursulenko@gmail.com"
