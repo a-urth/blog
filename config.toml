@@ -1,11 +1,23 @@
-languageCode = "en-us"
 baseurl = "https://a-urth.github.io/"
+languageCode = "en-us"
 title = "Just Another Developer's Blog"
-author = "a-urth (Andrii Ursulenko)"
+theme = "hemingway"
+copyright = "&copy; <a href=\"/about\">Andrii Ursulenko</a> 2016"
+# disqusShortname = "a-urth-short"
 
 [params]
-  logo      = "/images/logo.jpeg"
-  twitter   = "https://twitter.com/a_ursulenko"
-  facebook  = "https://www.facebook.com/andrii.ursulenko"
-  github    = "https://github.com/a-urth/"
-  email     = "a.ursulenko@gmail.com"
+  [params.highlight]
+    style = "github"
+    languages = ["go", "dockerfile", "python"]
+
+  [[params.social]]
+    url = "https://github.com/a-urth"
+    fa_icon = "fa-github"
+
+  [[params.social]]
+    url = "https://twitter.com/a_ursulenko"
+    fa_icon = "fa-twitter"
+
+  [[params.social]]
+    url = "/index.xml"
+    fa_icon = "fa-rss"
