@@ -3,12 +3,12 @@ languageCode = "en-us"
 title = "Just Another Developer's Blog"
 theme = "hemingway"
 copyright = "&copy; <a href=\"/about\">Andrii Ursulenko</a> 2016"
-# disqusShortname = "a-urth-short"
+disqusShortname = "a-urth"
 
 [params]
   [params.highlight]
     style = "github"
-    languages = ["go", "dockerfile", "python", "clojure"]
+    languages = ["go", "python", "clojure"]
 
   [[params.social]]
     url = "https://github.com/a-urth"

@@ -2,7 +2,7 @@
 title = "And there was word"
 draft = false
 date = "2016-11-16T12:07:39+02:00"
-tags = ["personal", "programming", "soft-dev"]
+tags = ["personal", "dev"]
 +++
 
 And it was when I finally decided to get myself some sort of general purpose site.
