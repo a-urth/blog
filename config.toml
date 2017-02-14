@@ -1,6 +1,6 @@
 baseurl = "https://a-urth.github.io/"
 languageCode = "en-us"
-title = "Just Another Developer's Blog"
+title = "Occasionally writing"
 theme = "hemingway"
 copyright = "&copy; <a href=\"/about\">Andrii Ursulenko</a> 2016"
 disqusShortname = "a-urth"
